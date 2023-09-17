@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 public class Count_Char {
 
-	/* Program 1: Program to count occurrences of a Given character in a string  */
-
 	public void count() {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.nextLine();
