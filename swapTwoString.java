@@ -3,7 +3,7 @@ public class swapTwoString {
 
 	public static void main(String[] args) {
 
-		/* Problem 4: Swap to Strings Without Using any Third Variable */
+		/* Problem 4: Swap to Strings Without Using any Third Variable  */
 		String a = "Hello";
 		String b = "World";
 
