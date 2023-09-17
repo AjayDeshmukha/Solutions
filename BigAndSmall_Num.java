@@ -2,7 +2,7 @@
 
 public class BigAndSmall_Num {
 
-	/* Problem 3: Biggest And Smallest Number in an Array */
+	/* Problem 3: Biggest And Smallest Number in an Array  */
 
 	public static void main(String[] args) {
 	
