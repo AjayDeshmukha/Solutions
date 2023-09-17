@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Palindrome_Number {
 
-	/* Problem 2: Determine whether a Given String is palindrome*/
+	/* Problem 2: Determine whether a Given String is palindrome */
 	public void palindrome() {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter The String : ");
